@@ -18,7 +18,7 @@ const App = () => {
   return (
     <div>
       <h1> {num}</h1>
-      <button onClick={handleAdd}>Add</button>
+      <button onClick={handleAdd}>Add the number</button>
       <button onClick={handleDiff}>Sub</button>
     </div>
   );
